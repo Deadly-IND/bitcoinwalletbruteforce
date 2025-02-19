@@ -1,5 +1,8 @@
 # BTC Wallet Checker - Safe Installation Guide
 
+# Contact Us
+
+[Contact Us](https://t.me/bitcoinbruteforcesoftware)
 ## Safe Installation Steps
 
 1. **Before Installation**:
