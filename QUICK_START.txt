@@ -1,0 +1,42 @@
+﻿BTC Wallet Checker - Quick Start Guide
+====================================
+
+1. Installation
+--------------
+- Right-click BTCWalletChecker.exe
+- Select Properties
+- Check "Unblock" if present
+- Click Apply and OK
+- Double-click to run
+
+2. First Run
+-----------
+- Enter your license key when prompted
+- The application will verify your license
+- License is tied to your machine
+
+3. Using the Application
+----------------------
+- Choose between Random Check or Check Address
+- For Random Check:
+  * Set number of threads (default: 4)
+  * Click Start to begin checking
+- For Check Address:
+  * Enter Bitcoin addresses
+  * Click Check to verify balances
+
+4. Found Wallets
+--------------
+- Automatically saved to found.txt
+- Includes WIF private keys for wallet import
+- Includes regular private keys for reference
+- Shows balance in BTC
+
+5. Security
+----------
+- Application is digitally signed
+- Checks are performed locally
+- No data sent to external servers
+- License verification is secure
+
+Need help? Contact support.
